@@ -39,4 +39,8 @@ Open `index.html` in a browser.
 
 ## Credits
 
-Built as a prototype for the NCBAA hackathon.
+## Credits
+
+Built by our team as a prototype at **SpartHill Hacks 2026** (San Jose State University, October 23-24, 2026).
+
+Built with HTML, CSS and JavaScript.
