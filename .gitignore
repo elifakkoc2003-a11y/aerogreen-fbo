@@ -1,0 +1,11 @@
+# Editor / IDE
+.idea/
+.vscode/
+# Hosting tool config
+.openai/
+# OS files
+.DS_Store
+Thumbs.db
+# Misc
+node_modules/
+*.log
